@@ -1,4 +1,4 @@
-import { ChipProps } from '@material-ui/core/Chip';
+import { ChipProps } from '@mui/material/Chip';
 import { DialogProps } from '@material-ui/core/Dialog';
 import { GridProps } from '@material-ui/core/Grid';
 import { SnackbarProps } from '@material-ui/core/Snackbar';
